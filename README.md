@@ -26,7 +26,7 @@ Get the latest installer here:
 - **Smart Framerate Adaptation:** Profiles for 25p, 25i, 23.976p, 24p, and 29.97i (including speedup and pitch correction).
 - **Bilingual UI:** Switch live between English and German.
 - **Live Progress Bar:** Real-time progress tracking during video processing.
-- **Safe Data Management:** Output folders and settings are safely stored in the user's "Documents" folder.
+- **Data Management:** Output masters and settings are stored in the user's "Documents" folder.
 
 ### System Requirements
 - **OS:** Windows 2000, XP x86 & x64, Vista x86 & x64, 7 x64, 8 x64, 10 x64 or 11.
@@ -52,7 +52,7 @@ Lade dir den aktuellen Installer hier herunter:
 - **Intelligente Framerate-Anpassung:** Profile für 25p, 25i, 23.976p, 24p und 29.97i (inkl. Speedup und Pitch-Korrektur).
 - **Mehrsprachig:** Unterstützt Deutsch und Englisch (Live-Umschaltung im Menü).
 - **Live-Progressbar:** Präzise Fortschrittsanzeige während der Verarbeitung.
-- **Sicher & Sauber:** Einstellungen und Master-Dateien werden sicher im "Dokumente"-Ordner des Nutzers gespeichert.
+- **Datenmanagement:** Einstellungen und Master-Dateien werden im "Dokumente"-Ordner des Nutzers gespeichert.
 
 ### Systemanforderungen
 - **Betriebssystem:** Windows 2000, XP x86 & x64, Vista x86 & x64, 7 x64, 8 x64, 10 x64 oder 11.
