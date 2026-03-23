@@ -29,7 +29,7 @@ Get the latest installer here:
 - **Safe Data Management:** Output folders and settings are safely stored in the user's "Documents" folder.
 
 ### System Requirements
-- **OS:** Windows 2000, XP, Vista, 7, 8, 10, or 11.
+- **OS:** Windows 2000, XP x86 & x64, Vista x86 & x64, 7 x64, 8 x64, 10 x64 or 11.
 - **Framework:** .NET Framework 2.0 (or higher).
 - **Engine:** Powered by FFmpeg (automatically included by the installer, featuring a legacy version for older OS).
 - *Note for developers:* To test the code locally in Visual Studio, you must manually place the required FFmpeg executables into your `bin/Debug` folder.
@@ -55,7 +55,7 @@ Lade dir den aktuellen Installer hier herunter:
 - **Sicher & Sauber:** Einstellungen und Master-Dateien werden sicher im "Dokumente"-Ordner des Nutzers gespeichert.
 
 ### Systemanforderungen
-- **Betriebssystem:** Windows 2000, XP, Vista, 7, 8, 10 oder 11.
+- **Betriebssystem:** Windows 2000, XP x86 & x64, Vista x86 & x64, 7 x64, 8 x64, 10 x64 oder 11.
 - **Framework:** .NET Framework 2.0 (oder höher).
 - **Engine:** Nutzt FFmpeg (wird vom Installer automatisch mitgeliefert, inkl. einer Legacy-Version für alte Systeme).
 - *Hinweis für Entwickler:* Um den Code lokal in Visual Studio zu kompilieren und zu testen, müssen die benötigten FFmpeg-Dateien manuell in den lokalen `bin/Debug` Ordner gelegt werden.
