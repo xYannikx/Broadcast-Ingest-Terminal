@@ -13,7 +13,7 @@
 ## <a id="english"></a>English
 
 A lightweight Windows tool designed to convert **16:9 source material** into broadcast-ready **SD masters (576i)**. 
-Built in C# (.NET 2.0) and optimized for maximum compatibility: running flawlessly on everything from Windows 2000 up to Windows 11.
+Built in C# (.NET 2.0) and optimized for maximum compatibility: running flawlessly on everything from Windows XP up to Windows 11.
 
 ### Download
 Get the latest installer here:  
@@ -29,9 +29,10 @@ Get the latest installer here:
 - **Data Management:** Output masters and settings are stored in the user's "Documents" folder.
 
 ### System Requirements
-- **OS:** Windows 2000, XP x86 & x64, Vista x86 & x64, 7 x64, 8 x64, 10 x64 or 11.
+- **OS:** Windows XP, Vista, 7 x64, 8.x x64, 10 x64 or 11. 
+  *(Windows 2000 support: The application itself runs flawlessly on Windows 2000. However, you will need to manually obtain a Windows 2000-compatible FFmpeg build, rename it to `ffmpeglegacy.exe`, and replace the existing file in the installation directory).*
 - **Framework:** .NET Framework 2.0 (or higher).
-- **Engine:** Powered by FFmpeg (automatically included by the installer, featuring a legacy version for older OS).
+- **Engine:** Powered by FFmpeg (automatically included by the installer, featuring a legacy version for older OS like Windows XP).
 - *Note for developers:* To test the code locally in Visual Studio, you must manually place the required FFmpeg executables into your `bin/Debug` folder.
 
 ---
@@ -39,7 +40,7 @@ Get the latest installer here:
 ## <a id="deutsch"></a>Deutsch
 
 Ein ressourcenschonendes Windows-Tool, um **16:9 Quellmaterial** exakt in sendefähige **SD-Broadcast-Master (576i)** zu konvertieren. 
-Entwickelt in C# (.NET 2.0) und optimiert für maximale Kompatibilität: von Windows 2000 bis Windows 11.
+Entwickelt in C# (.NET 2.0) und optimiert für maximale Kompatibilität: von Windows XP bis Windows 11.
 
 ### Download
 Lade dir den aktuellen Installer hier herunter:  
@@ -55,9 +56,10 @@ Lade dir den aktuellen Installer hier herunter:
 - **Datenmanagement:** Einstellungen und Master-Dateien werden im "Dokumente"-Ordner des Nutzers gespeichert.
 
 ### Systemanforderungen
-- **Betriebssystem:** Windows 2000, XP x86 & x64, Vista x86 & x64, 7 x64, 8 x64, 10 x64 oder 11.
+- **Betriebssystem:** Windows XP, Vista, 7 x64, 8.x x64, 10 x64 oder 11. 
+  *(Hinweis zu Windows 2000: Das Programm an sich funktioniert problemlos unter Windows 2000. Allerdings müssen Sie sich für dieses Betriebssystem selbst eine Windows 2000-kompatible FFmpeg-Version besorgen, diese in `ffmpeglegacy.exe` umbenennen und die vorhandene Datei im Installationsordner ersetzen).*
 - **Framework:** .NET Framework 2.0 (oder höher).
-- **Engine:** Nutzt FFmpeg (wird vom Installer automatisch mitgeliefert, inkl. einer Legacy-Version für alte Systeme).
+- **Engine:** Nutzt FFmpeg (wird vom Installer automatisch mitgeliefert, inkl. einer Legacy-Version für alte Systeme wie Windows XP).
 - *Hinweis für Entwickler:* Um den Code lokal in Visual Studio zu kompilieren und zu testen, müssen die benötigten FFmpeg-Dateien manuell in den lokalen `bin/Debug` Ordner gelegt werden.
 
 ---
