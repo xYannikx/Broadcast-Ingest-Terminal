@@ -57,7 +57,7 @@ Lade dir den aktuellen Installer hier herunter:
 
 ### Systemanforderungen
 - **Betriebssystem:** Windows XP, Vista, 7 x64, 8.x x64, 10 x64 oder 11. 
-  *(Hinweis zu Windows 2000: Das Programm an sich funktioniert problemlos unter Windows 2000. Allerdings müssen Sie sich für dieses Betriebssystem selbst eine Windows 2000-kompatible FFmpeg-Version besorgen, diese in `ffmpeglegacy.exe` umbenennen und die vorhandene Datei im Installationsordner ersetzen).*
+  *(Hinweis zu Windows 2000: Das Programm an sich funktioniert problemlos unter Windows 2000. Allerdings muss sich für Windows 2000 selbst eine kompatible FFmpeg-Version besorgt werden, diese in `ffmpeglegacy.exe` umbenennen und die vorhandene Datei im Installationsordner ersetzen).*
 - **Framework:** .NET Framework 2.0 (oder höher).
 - **Engine:** Nutzt FFmpeg (wird vom Installer automatisch mitgeliefert, inkl. einer Legacy-Version für alte Systeme wie Windows XP).
 - *Hinweis für Entwickler:* Um den Code lokal in Visual Studio zu kompilieren und zu testen, müssen die benötigten FFmpeg-Dateien manuell in den lokalen `bin/Debug` Ordner gelegt werden.
