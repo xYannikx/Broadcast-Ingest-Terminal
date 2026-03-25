@@ -30,7 +30,7 @@ Get the latest installer here:
 
 ### System Requirements
 - **OS:** Windows XP, Vista, 7 x64, 8.x x64, 10 x64 or 11. 
-  *(Windows 2000 support: The application itself runs flawlessly on Windows 2000. However, you will need to manually obtain a Windows 2000-compatible FFmpeg build, rename it to `ffmpeglegacy.exe`, and replace the existing file in the installation directory).*
+  *(Windows 2000 and older support: The application itself runs flawlessly on Windows 2000 and older. However, you will need to manually obtain a compatible FFmpeg build, rename it to `ffmpeglegacy.exe`, and replace the existing file in the installation directory).*
 - **Framework:** .NET Framework 2.0 (or higher).
 - **Engine:** Powered by FFmpeg (automatically included by the installer, featuring a legacy version for older OS like Windows XP).
 - *Note for developers:* To test the code locally in Visual Studio, you must manually place the required FFmpeg executables into your `bin/Debug` folder.
@@ -57,7 +57,7 @@ Lade dir den aktuellen Installer hier herunter:
 
 ### Systemanforderungen
 - **Betriebssystem:** Windows XP, Vista, 7 x64, 8.x x64, 10 x64 oder 11. 
-  *(Hinweis zu Windows 2000: Das Programm an sich funktioniert problemlos unter Windows 2000. Allerdings muss sich für Windows 2000 selbst eine kompatible FFmpeg-Version besorgt werden, diese in `ffmpeglegacy.exe` umbenennen und die vorhandene Datei im Installationsordner ersetzen).*
+  *(Hinweis zu Windows 2000 und älter: Das Programm an sich funktioniert problemlos unter Windows 2000 und älter. Allerdings muss sich selbst eine kompatible FFmpeg-Version besorgt werden, diese in `ffmpeglegacy.exe` umbenennen und die vorhandene Datei im Installationsordner ersetzen).*
 - **Framework:** .NET Framework 2.0 (oder höher).
 - **Engine:** Nutzt FFmpeg (wird vom Installer automatisch mitgeliefert, inkl. einer Legacy-Version für alte Systeme wie Windows XP).
 - *Hinweis für Entwickler:* Um den Code lokal in Visual Studio zu kompilieren und zu testen, müssen die benötigten FFmpeg-Dateien manuell in den lokalen `bin/Debug` Ordner gelegt werden.
